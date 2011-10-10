@@ -5,5 +5,6 @@ public class jijiji {
 	String quetal;
 	String bienytu;
 	String bien;
+	String mealegro;
 
 }
